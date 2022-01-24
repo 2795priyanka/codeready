@@ -25,8 +25,8 @@ app.post("/codeready_send_mail",  (req, res) => {
             service: "gmail",
             secure: false, 
             auth: {
-                user: "bulbul.infograins@gmail.com", 
-                pass: "BulBul@123" 
+                user: "priyanka.infograins@gmail.com", 
+                pass: "Priya@123" 
                
             },
             tls: { rejectUnauthorized: false }
@@ -48,7 +48,7 @@ app.post("/codeready_send_mail",  (req, res) => {
         }
         else {
             console.log("Server is ready to take our messages");
-            return res.redirect("http://3.110.16.6/");
+            return res.redirect("https://www.codereadysoftware.com/");
             // return res.redirect("/index.html")
         }
     });

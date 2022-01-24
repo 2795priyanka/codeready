@@ -14,7 +14,7 @@ contact.innerHTML = `		<div class="modal fade" id="exampleModal" tabindex="-1" a
                 </div>
                 <div class="col-lg-6">
 
-                    <form action="http://3.110.16.6:5000/codeready_send_mail" method="post">
+                    <form action="http://localhost:5000/codeready_send_mail" method="post">
                         <div class="row g-3">
                             <div class="col-md-6">
                                 <label for="inputName4" class="form-label">Name</label>

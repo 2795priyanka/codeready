@@ -88,7 +88,7 @@ header.innerHTML = `		<div class="container-fluid">
                                     <a class="list-group-item " href="uber-like-app-cuddling.html">Uber Like App For Cuddling</a>
                                     <a class="list-group-item " href="uber-like-app-flower.html">Uber Like App For Flower
                                         Delivery</a>
-                                    <a class="list-group-item " href="uber-like-app-babysitters.html">Uber Like App For Babysitters</a>
+                                    <a class="list-group-item " href="uber-like-app-babysitter.html">Uber Like App For Babysitters</a>
                                 </div>
                                 <h5>Ridesharing App</h5>
                                 <div class="list-group">
@@ -104,8 +104,8 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Travel Management Software</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Limousine Software</a>
-                                    <a class="list-group-item coming disabled" href="#">Employee Travel Management
+                                    <a class="list-group-item" href="limousine-software.html">Limousine Software</a>
+                                    <a class="list-group-item " href="employee-travel-management-software.html">Employee Travel Management
                                         Software</a>
                                 </div>
                             </div>
@@ -174,7 +174,7 @@ header.innerHTML = `		<div class="container-fluid">
                                 </div>
                                 <h5>Dating App</h5>
                                 <div class="list-group">
-                                    <a class="list-group-item coming disabled" href="#">Tinder Clone</a>
+                                    <a class="list-group-item " href="tinder-clone.html">Tinder Clone</a>
                                 </div>
                                 <h5>Fundraising App</h5>
                                 <div class="list-group">
@@ -189,12 +189,12 @@ header.innerHTML = `		<div class="container-fluid">
                                     <a class="list-group-item " href="letgo-clone.html">Letgo Clone</a>
                                     <a class="list-group-item " href="flippa-clone.html">Flippa Clone</a>
                                     <a class="list-group-item " href="imdb-clone.html">IMDB Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Eventbrite Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Alexa Skill Development</a>
-                                    <a class="list-group-item coming disabled" href="#">Task Rabbit Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Foodspotting Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">Bizzby Clone</a>
-                                    <a class="list-group-item coming disabled" href="#">IOT Vehicle Tracking Software</a>
+                                    <a class="list-group-item " href="eventbrite-clone.html">Eventbrite Clone</a>
+                                    <a class="list-group-item " href="alexa-skill-development.html">Alexa Skill Development</a>
+                                    <a class="list-group-item " href="taskrabbit-clone.html">Task Rabbit Clone</a>
+                                    <a class="list-group-item " href="foodspotting-clone.html">Foodspotting Clone</a>
+                                    <a class="list-group-item " href="bizzby-clone.html">Bizzby Clone</a>
+                                    <a class="list-group-item " href="iot-vehicle-tracking-software.html">IOT Vehicle Tracking Software</a>
                                 </div>
                             </div>
                         </div>
@@ -231,9 +231,9 @@ header.innerHTML = `		<div class="container-fluid">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
                 data-bs-auto-close="outside">ERP/SAAS</a>
             <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item erp coming disabled" href="#">HRMS </a></li>
-                <li><a class="dropdown-item erp coming disabled" href="#">CMS </a></li>
-                <li><a class="dropdown-item erp coming disabled" href="#">ERP </a></li>
+                <li><a class="dropdown-item erp " href="hrms.html">HRMS </a></li>
+                <li><a class="dropdown-item erp" href="cms.html">CMS </a></li>
+                <li><a class="dropdown-item erp " href="erp.html">ERP </a></li>
             </ul>
         </li>
         <li class="nav-item dropdown">
@@ -280,8 +280,8 @@ header.innerHTML = `		<div class="container-fluid">
             <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown"
                 data-bs-auto-close="outside">Contact Us</a>
             <ul class="dropdown-menu shadow">
-                <li><a class="dropdown-item" href="#">Contact Us</a></li>
-                <li><a class="dropdown-item" href="#">About Us</a></li>
+                <li><a class="dropdown-item" href="contact.html">Contact Us</a></li>
+                <li><a class="dropdown-item" href="about-us.html">About Us</a></li>
                 <li><a class="dropdown-item" href="#">Call Us(+91 6263691795) </a></li>
             </ul>
         </li>
